@@ -1,5 +1,5 @@
 local gaymes = {
-    [99999999] = "placeholder" -- placeholder
+    [99999999] = "placeholder"
 }
 
 return gaymes
